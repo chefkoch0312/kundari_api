@@ -1,0 +1,18 @@
+# Logs und temporäre Dateien
+*.log
+*.tmp
+
+# Sicherungen
+*.bak
+*.swp
+*.swo
+
+# system & editor junk
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+config/db.php

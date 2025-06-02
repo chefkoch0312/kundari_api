@@ -1,0 +1,1 @@
+-- SQL zum Anlegen der Tabelle
